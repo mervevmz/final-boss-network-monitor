@@ -55,13 +55,12 @@ Bu panel üzerinden kullanıcılar:
 
 ## Kurulum
 
-Gerekli kütüphaneleri yüklemek için:
+Gerekli kütüphaneleri yüklemek ve uygulamayı çalıptırmak için:
 
 ```bash
 pip install scapy customtkinter 
 
 
-```
 python gui.py
 
 ---
