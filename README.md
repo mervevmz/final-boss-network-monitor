@@ -62,7 +62,6 @@ pip install scapy customtkinter
 
 
 ```
-##çalıştırmak için;
 python gui.py
 
 ---
